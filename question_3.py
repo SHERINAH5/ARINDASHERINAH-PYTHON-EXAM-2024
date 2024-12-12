@@ -1,10 +1,11 @@
 # question(i) 
 def age_eligibility():
-    age = int(input("Enter your age: "))
+    age = int(input("Enter your age:"))
     if age >= 18:
-        print("You are eligible.")
+        print('You are eligible.')
     else:
-        print("You are not eligible.")
+        print('You are not eligible.')
+age_eligibility()       
 
 
 # question(ii) 

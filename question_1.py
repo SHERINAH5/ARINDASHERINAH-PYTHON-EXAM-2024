@@ -45,5 +45,4 @@ def odd_numbers():
     odd_numbers = [7, 9, 15]
     for number in numbers:
         return odd_numbers
-    
 odd_numbers()
